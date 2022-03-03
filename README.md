@@ -7,6 +7,4 @@ Docente: Rafael Cohen
 
 Autores: Fernando Ugarte, Matías Poletti
 
-Letra: 20201021 AED1 Obligatorio 1.pdf
-
-Documentación: Obligatorio-Algoritmos-Poletti-Ugarte.pdf
+Letra y documentación en carpeta Documentacion
